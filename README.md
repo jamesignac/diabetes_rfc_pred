@@ -9,5 +9,4 @@ Diabetes is a significant global health issue that affects millions of people. E
 
 Data from Kaggle: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data
 
-This is an ongoing project that I am completing throughout the Fall semester.
-
+This project was completed in Fall 2024 for my Data Mining (CISC 4631) course.
